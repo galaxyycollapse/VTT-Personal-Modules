@@ -1,0 +1,15 @@
+{
+    "id": "the-delivery-assets",
+    "title": "The Delivery: Adventure Assets",
+    "description": "Just a collection of assets used in the The Delivery D&D5e Adventure",
+    "authors": [
+        {
+            "name": "Yatosaki Makoto",
+            "discord": "glimmeringstarlight"
+        }
+    ],
+    "version": "0.0.1",
+    "system": [
+        "dnd5e"
+    ]
+}
