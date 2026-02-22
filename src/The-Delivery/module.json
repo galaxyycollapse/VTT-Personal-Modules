@@ -9,8 +9,8 @@
         }
     ],
     "compatibility": {
-        "minimum": 10,
-        "verified": 11
+        "minimum": 11,
+        "verified": 13
     },
     "version": "0.0.2",
     "system": [ "dnd5e" ],
