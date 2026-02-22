@@ -12,8 +12,8 @@
         "minimum": 10,
         "verified": 11
     },
-    "version": "0.0.1",
+    "version": "0.0.2",
     "system": [ "dnd5e" ],
-    "manifest": "https://raw.githubusercontent.com/galaxyycollapse/VTT-Personal-Modules/main/The-Delivery/module.json",
+    "manifest": "https://raw.githubusercontent.com/galaxyycollapse/VTT-Personal-Modules/main/src/The-Delivery/module.json",
     "download": "https://github.com/galaxyycollapse/VTT-Personal-Modules/releases/download/the-delivery/The-Delivery-assets.zip"
 }
