@@ -1,0 +1,1 @@
+"./7z.exe" a -aoa -tzip "out/The-Delivery.zip" "./src/The-Delivery"
